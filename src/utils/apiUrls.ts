@@ -1,0 +1,1 @@
+export const apiUrl = "https://my-json-server.typicode.com/AlvaroArratia/static-todos-api/todos";
